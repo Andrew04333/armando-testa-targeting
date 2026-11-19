@@ -1,6 +1,6 @@
 # Who Should We Target? Predicting High Grocery Spenders for Armando Testa
 
-IS 4487 final project, Fall 2026. Team: Xander Patterson, Andrew Johnson, Hunter Voung and Eddie Yoshioka.
+IS 4487 final project, Fall 2026. Team: Xander Patterson, Andrew Johnson, Hunter Vuong and Eddie Yoshioka.
 
 We use the BLS Consumer Expenditure Survey to predict which U.S. households spend more than the median (\$150 a week) on groceries, from age, income, region, household size and household type. We compare logistic regression, a decision tree and k-nearest neighbors and turn the best one into a targeting recommendation for Armando Testa's grocery clients.
 
